@@ -1,0 +1,11 @@
+.logo img {
+    object-fit: contain;
+    width: 100%;
+}
+
+#header .logo {
+    padding: 10px;
+    max-width: 15vw;
+    background: #ffffff;
+    border-color: #6c635d;
+}
